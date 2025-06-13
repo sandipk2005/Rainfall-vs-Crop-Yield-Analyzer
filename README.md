@@ -23,5 +23,9 @@ Draws:
 📈 Line graph (year-wise comparison)
 
 ⚫ Scatter plot (rainfall vs yield)
+📊 Bar Graph (First 10 Rows)
+Side-by-side bar chart of rainfall and crop yield for first 10 years
+
+Makes it easy to compare year-by-year values
 
 Optional: Works on first 10 rows for selected operations
